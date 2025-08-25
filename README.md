@@ -1,1 +1,2 @@
-# testingkwokwwk
+# nama : Badrul
+# JK : Laki Laki
