@@ -17,3 +17,6 @@ JK : LAKIAN
 
 Nama: Muhammad Nizar
 JK: Laki Laki
+
+Nama:Yenny Suryani Floradeta Aritonang
+JK:Perempuan
