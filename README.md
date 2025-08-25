@@ -4,7 +4,10 @@
 
 
 <hr>
-## Contributors
+# Contributors
+
+nama : Badrul
+JK : Laki Laki
 
 NAMA : BINTANG
 JK : NB
