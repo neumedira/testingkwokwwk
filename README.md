@@ -1,4 +1,5 @@
 # testingkwokwwk
+
 <hr>
 ## Contributors
 
@@ -10,3 +11,6 @@ JK: Laki-laki
 
 NAMA : AHNAF ISA
 JK : LAKIAN
+
+Nama: Muhammad Nizar
+JK: Laki Laki
