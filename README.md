@@ -1,5 +1,11 @@
 # testingkwokwwk
+
 <hr>
 ## Contributors
 
-- Bintang
+NAMA : BINTANG
+JK : NB
+
+NAMA : AHNAF ISA
+JK : LAKIAN
+
