@@ -15,5 +15,8 @@ JK: Laki-laki
 NAMA : AHNAF ISA
 JK : LAKIAN
 
-Nama: Muhammad Nizar
+Nama: Muhammad Nizar 
 JK: Laki Laki
+
+Nama: Paula Yunika Purwandani Putri
+JK: Perempuan
